@@ -6,7 +6,7 @@ go samples. From basic to intermediate
 Mutex    
 RWMutex  
 Memory Sharing  
-Error handling
+Error handling  
 Goroutines  
 Channel Types  
 Channel Controls  
