@@ -6,9 +6,9 @@ go samples. From basic to intermediate
 Mutex    
 RWMutex  
 Memory Sharing  
-Error handilng   
+Error handling
 Goroutines  
-ChannelTypes  
+Channel Types  
 Channel Controls  
 Basic Function example  
 Concurrency samples  
